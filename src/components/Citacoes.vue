@@ -23,11 +23,11 @@ export default {
         return {
             numero: 0,
             citacoes: [{
-                fonte: 'Jornal do Empreendedor',
+                fonte: 'Jornal do Empreendedorrr',
                 texto: 'Lembre-se sempre que você é absolutamente único. Assim como todos os outros.',
                 autor: 'Margaret Mead'
             }, { 
-                fonte: 'Frases de Mãe',
+                fonte: 'Frases de Mães',
                 texto: 'Isso não é um quarto, é um chiqueiro.',
                 autor: 'Roberta'
             }, {
